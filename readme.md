@@ -29,6 +29,8 @@ cd hackademia
 
 2. Install required dependencies:
 ```bash
+python3 -m venv hackademiaENV
+source hackademiaENV/bin/activate
 pip install flask werkzeug markdown
 ```
 
